@@ -5,8 +5,8 @@ const prefix = "!";
 
 //this is the real code
 
-client.login('Nzc2MjA2MTk4OTIzNTkxNzAx.X6xgWw.mYNwMAw0M5yjrMoav9rqhFIsmCo');
-
+client.login('');
+//your token above
 
 client.on('ready', () =>{
     console.log('Yay! You Made Your Bot!');
